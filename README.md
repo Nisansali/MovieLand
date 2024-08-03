@@ -12,4 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Description
-React JS Application for fetch movies from a API and search movies. 
+React JS Application for fetch movies from a API and search movies.. 
+
+
